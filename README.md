@@ -10,7 +10,7 @@
 <h3>Just a Web Developer</h3>
 <hr>
 <h3>About Me</h3>
-<p>Hi, I'm Ibrahim, a passionate web developer with expertise in JavaScript (React), PHP, Laravel, MySQL, HTML, CSS, and Bootstrap. I specialize in building dynamic, responsive websites and web applications using modern technologies. Whether it's frontend magic with React or robust backend solutions with Laravel, I love turning ideas into reality. Let's connect!</p>
+<p>Hi, I'm Ibrahim — a passionate aspiring web developer. I've learned HTML, CSS, PHP, JavaScript, Bootstrap, SQL, and jQuery, and I'm currently learning React. I'm also planning to dive deeper into modern frameworks. I love building dynamic, responsive websites and enjoy turning ideas into interactive web experiences. Let's connect!</p>
 <hr>
 <h3>Languages and Frameworks</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 10px 0;">
