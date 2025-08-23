@@ -16,7 +16,7 @@
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 10px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 32px; height: 32px;">
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="width: 32px; height: 32px;">
+  
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" style="width: 32px; height: 32px;">
   
