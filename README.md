@@ -10,7 +10,7 @@
 <h3>Just a Web Developer</h3>
 <hr>
 <h3>About Me</h3>
-<p>Hi, I'm Ibrahim — a passionate aspiring web developer. I've learned HTML, CSS, PHP, JavaScript, Bootstrap, SQL, and jQuery, and I'm currently learning React. I'm also planning to dive deeper into modern frameworks. I love building dynamic, responsive websites and enjoy turning ideas into interactive web experiences. Let's connect!</p>
+<p>Since childhood, I’ve always been curious about how websites and computers work. Even though I couldn’t study web development at university, I decided to follow my passion and start learning on my own. Over the past year, I’ve built a strong foundation in web development by learning HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, jQuery, and Laravel. Each project I work on helps me grow, improve my problem-solving skills, and strengthen my dream of becoming a professional full-stack developer.</p>
 <hr>
 <h3>Languages and Frameworks</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 10px 0;">
