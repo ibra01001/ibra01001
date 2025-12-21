@@ -96,45 +96,4 @@ Since childhood, I've been fascinated by how websites work. Despite not studying
   
 </div>
 
----
 
-## 🤝 Let's Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-remili-15b907370)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=tokyonight" width="100%"/>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌟 "The only way to do great work is to love what you do" - Steve Jobs
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=6366f1&style=for-the-badge&label=Profile+Views)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-</div>
