@@ -16,7 +16,7 @@
 
 ```javascript
 const ibrahim = {
-    location: "Bab Ezzouar, Algiers 🇩🇿",
+    location: "Birkhadm, Algiers 🇩🇿",
     journey: "Self-taught developer passionate about web development",
     currentFocus: ["Smart Book Platform", "E-Commerce Solutions"],
     dreamRole: "Full-Stack Developer",
