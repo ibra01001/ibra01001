@@ -27,7 +27,7 @@ const ibrahim = {
 Since childhood, I've been fascinated by how websites work. Despite not studying computer science at university, I followed my passion and dove into **self-taught web development**. Over the past year, I've built real-world projects and continuously expanded my skill set.
 
 ### 🎯 Current Projects
-- 📚 **Smart Book Platform** - Currently in development
+- 📚 **Smart Book Web app** - Currently in development
 - 🛒 **E-Commerce Website** - Recently completed
 https://metrowisedz.com/ the link of it
 ---
