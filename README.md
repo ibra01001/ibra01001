@@ -1,20 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibrahim%20Remili&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
 
-<div align="center">
-  
-
-
-```javascript
-const ibrahim = {
-    location: "Birkhadm, Algiers 🇩🇿",
-
-    philosophy: "Every project is a step towards mastery"
-};
-```
-
-Since childhood, I've been fascinated by how websites work. Despite not studying computer science at university, I followed my passion and dove into **self-taught web development**. Over the past year, I've built real-world projects and continuously expanded my skill set.
 
 ### Current Projects
 -  **Uprize saas web** - Currently in development
