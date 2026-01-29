@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Full-Stack Developer | Laravel Enthusiast | Open Source Contributor
+  ### 👨‍💻 Full-Stack Developer
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Amazing+Web+Experiences;Self-Taught+Developer;Always+Learning+New+Things" alt="Typing SVG" />
   
@@ -17,17 +17,15 @@
 ```javascript
 const ibrahim = {
     location: "Birkhadm, Algiers 🇩🇿",
-    journey: "Self-taught developer passionate about web development",
-    currentFocus: ["Smart Book Platform", "E-Commerce Solutions"],
-    dreamRole: "Full-Stack Developer",
-    philosophy: "Every project is a step towards mastery 🎯"
+
+    philosophy: "Every project is a step towards mastery"
 };
 ```
 
 Since childhood, I've been fascinated by how websites work. Despite not studying computer science at university, I followed my passion and dove into **self-taught web development**. Over the past year, I've built real-world projects and continuously expanded my skill set.
 
 ### 🎯 Current Projects
-- 📚 **Smart Book Web app** - Currently in development
+- 📚 **Uprize saas web** - Currently in development
 - 🛒 **E-Commerce Website** - Recently completed
 https://metrowisedz.com/ the link of it
 ---
