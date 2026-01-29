@@ -4,15 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Full-Stack Developer
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Amazing+Web+Experiences;Self-Taught+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-  
-</div>
 
----
-
-## 🚀 About Me
 
 ```javascript
 const ibrahim = {
@@ -24,9 +16,9 @@ const ibrahim = {
 
 Since childhood, I've been fascinated by how websites work. Despite not studying computer science at university, I followed my passion and dove into **self-taught web development**. Over the past year, I've built real-world projects and continuously expanded my skill set.
 
-### 🎯 Current Projects
-- 📚 **Uprize saas web** - Currently in development
-- 🛒 **E-Commerce Website** - Recently completed
+### Current Projects
+-  **Uprize saas web** - Currently in development
+- **E-Commerce Website** - Recently completed
 https://metrowisedz.com/ the link of it
 ---
 
