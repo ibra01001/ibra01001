@@ -15,7 +15,7 @@ https://metrowisedz.com/ the link of it
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MZYz26gVyhYDbtuBFmicog9GlOoWsYTrtg&s" title="livewire" width="48 height="auto"/>
 </p>
 
 ### Backend Development
