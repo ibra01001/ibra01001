@@ -1,5 +1,5 @@
 
-
+hello , brahim fullstack developer 
 ### Current Projects
 -  **Uprize saas web** - Currently in development
 - **E-Commerce Website** - Recently completed
@@ -33,6 +33,7 @@ https://metrowisedz.com/ the link of it
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="48" height="48"/>
 </p>
-
-
+ 
+(currently learning react)
+(want to learn nativephp after)
 
