@@ -34,6 +34,6 @@ https://metrowisedz.com/ the link of it
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="48" height="48"/>
 </p>
  
-(currently learning react)
+(currently focusing on web security)
 (want to learn nativephp after)
 
