@@ -16,7 +16,4 @@
   <img src="https://skillicons.dev/icons?i=git,figma,linux,arch" />
 </p>
 
-### Currently Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=security" />
-</p>
+
