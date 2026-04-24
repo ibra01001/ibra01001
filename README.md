@@ -13,7 +13,7 @@
 
 ### Tools & Environment  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=git,linux,arch" />
 </p>
 
 
