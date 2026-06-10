@@ -1,4 +1,4 @@
-**ibrahim remili** — full-stack developer · algeria
+**Ibrahim Remili** : full-stack developer · algeria
 
 ---
 
