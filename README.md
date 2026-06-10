@@ -3,10 +3,9 @@
    a Saas web sites that provides Digtale servises *note: web is still under development 
 <a href="http://uprizeagency.com/">http://uprizeagency.com/</a>
 </p>
-<p aling="left">e commerce website with with laravel <a href="http://metrowisedz.com/"></a>http://metrowisedz.com/</p>
+<p align="left">e commerce website with laravel <a href="http://metrowisedz.com/">http://metrowisedz.com/</a></p>
 
 ## Tech Stack  
-
 ### Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
@@ -15,12 +14,10 @@
 
 ### Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python" />
 </p>
 
 ### Tools & Environment  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,arch" />
 </p>
-
-
