@@ -15,7 +15,7 @@
 ---
 
 ### frontend
-![frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind)
+![frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MZYz26gVyhYDbtuBFmicog9GlOoWsYTrtg&s" height="48"/>
 ### backend
 ![backend](https://skillicons.dev/icons?i=php,laravel,python,mysql)
