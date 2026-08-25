@@ -7,7 +7,7 @@
 
 | project | description | status |
 |---|---|---|
-| [uprizeagency.com](http://uprizeagency.com) | saas · digital services platform | ![wip](https://img.shields.io/badge/in_progress-EF9F27?style=flat-square&labelColor=faeeda&color=EF9F27) |
+| [uprizeagency.com](http://uprizeagency.com) | saas · digital services platform | ![live](https://img.shields.io/badge/live-639922?style=flat-square&labelColor=EAF3DE&color=639922) |
 | [metrowisedz.com](http://metrowisedz.com) | e-commerce · laravel | ![live](https://img.shields.io/badge/live-639922?style=flat-square&labelColor=EAF3DE&color=639922) |
 
 </div>
