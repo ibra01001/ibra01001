@@ -18,7 +18,7 @@
 ![frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MZYz26gVyhYDbtuBFmicog9GlOoWsYTrtg&s" height="48"/>
 ### backend
-![backend](https://skillicons.dev/icons?i=php,laravel,python,nodejs)
+![backend](https://skillicons.dev/icons?i=php,laravel,python,flask,nodejs)
 ### database
 ![database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
