@@ -3,14 +3,20 @@
 
 ---
 
-<div align="center">
+### learning
+- computer networking
+- distributed systems
+- client-server architecture
+- peer-to-peer communication
+- real-time communication
+- applied cryptography
+- end-to-end encryption
+- secure key management
+- group security
+- identity & session management
+- privacy engineering
+- metadata minimization
 
-| project | description | status |
-|---|---|---|
-| [uprizeagency.com](http://uprizeagency.com) | saas · digital services platform | ![live](https://img.shields.io/badge/live-639922?style=flat-square&labelColor=EAF3DE&color=639922) |
-| [metrowisedz.com](http://metrowisedz.com) | e-commerce · laravel | ![live](https://img.shields.io/badge/live-639922?style=flat-square&labelColor=EAF3DE&color=639922) |
-
-</div>
 
 ---
 
