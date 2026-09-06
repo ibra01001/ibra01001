@@ -3,15 +3,12 @@
 
 ---
 
-### learning
+
 - computer networking
-- distributed systems
 - client-server architecture
 - peer-to-peer communication
 - real-time communication
-- applied cryptography
 - end-to-end encryption
-- secure key management
 - group security
 - identity & session management
 - privacy engineering
