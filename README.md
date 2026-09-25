@@ -2,7 +2,7 @@
 <p align="center">full-stack developer · algeria</p>
 
 ---
-
+ Discovering :
 
 - computer networking
 - client-server architecture
