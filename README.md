@@ -27,7 +27,7 @@ Discovering :
 
 
 ### libraries
-![react](https://skillicons.dev/icons?i=react) <picture><source media="(prefers-color-scheme: dark)" srcset="skills/Socket.io-white.png"<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ebd5114a-065b-4934-9bdf-ebc0ec8ca924" />
+![react](https://skillicons.dev/icons?i=react) <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ebd5114a-065b-4934-9bdf-ebc0ec8ca924" />
 </picture> ![libraries](https://skillicons.dev/icons?i=bootstrap,tailwind)
 
 ### databases
