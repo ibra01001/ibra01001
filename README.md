@@ -2,7 +2,8 @@
 <p align="center">full-stack developer · algeria</p>
 
 ---
- Discovering :
+
+Discovering :
 
 - computer networking
 - client-server architecture
@@ -14,16 +15,23 @@
 - privacy engineering
 - metadata minimization
 
-
 ---
 
-### frontend
-![frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MZYz26gVyhYDbtuBFmicog9GlOoWsYTrtg&s" height="48"/>
-### backend
-![backend](https://skillicons.dev/icons?i=php,laravel,python,flask,nodejs)
-### database
-![database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
+## tech & tools
+
+### languages
+![languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,c)
+
+### frameworks
+![frameworks](https://skillicons.dev/icons?i=laravel,nextjs,flask,nodejs) <img src="skills/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" height="48"/> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/99aa0dd3-ea89-426d-9371-c94c906c652b" />
+
+
+### libraries
+![react](https://skillicons.dev/icons?i=react) <picture><source media="(prefers-color-scheme: dark)" srcset="skills/Socket.io-white.png"<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ebd5114a-065b-4934-9bdf-ebc0ec8ca924" />
+</picture> ![libraries](https://skillicons.dev/icons?i=bootstrap,tailwind)
+
+### databases
+![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite)
 
 ### tools & environment
-![tools](https://skillicons.dev/icons?i=git,github,linux,arch)
+![tools](https://skillicons.dev/icons?i=git,github,docker,linux,arch)
