@@ -23,7 +23,8 @@ Discovering :
 ![languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,c)
 
 ### frameworks
-![frameworks](https://skillicons.dev/icons?i=laravel,nextjs,flask,nodejs) <img src="skills/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" height="48"/> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/99aa0dd3-ea89-426d-9371-c94c906c652b" />
+![frameworks](https://skillicons.dev/icons?i=laravel,nextjs,flask,nodejs)<img width="48" height="48" alt="webrtc-logo-vert-retro-255x305" src="https://github.com/user-attachments/assets/6590fbe4-5f7f-4bde-865d-c7005fe2f1cc" />
+ <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/99aa0dd3-ea89-426d-9371-c94c906c652b" />
 
 
 ### libraries
