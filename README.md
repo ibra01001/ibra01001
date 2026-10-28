@@ -20,7 +20,7 @@ Discovering :
 ## tech & tools
 
 ### languages
-![languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,c)
+![languages](https://skillicons.dev/icons?i=js,ts,php,py,bash,c)
 
 ### frameworks
 ![frameworks](https://skillicons.dev/icons?i=laravel,nextjs,flask,nodejs)<img width="48" height="48" alt="webrtc-logo-vert-retro-255x305" src="https://github.com/user-attachments/assets/6590fbe4-5f7f-4bde-865d-c7005fe2f1cc" />
